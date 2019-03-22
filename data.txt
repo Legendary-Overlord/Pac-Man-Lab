@@ -1,0 +1,5 @@
+#Level
+0
+#radius	posX	posY	wait	direction	rebounds	dead
+10	100	100	10	DOWN	0	false
+10	100	200	10	LEFT	0	false
